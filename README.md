@@ -44,3 +44,9 @@ sudo apt install graphviz libgraphviz-dev
 
 python -m ui.gui
 ./chihiro [FILES] --info --?
+
+
+Pour le joli en icons
+chmod +x install_desktop.sh
+./install_desktop.sh 
+et indiquer les chemins des dossiers vous correspondant
