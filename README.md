@@ -31,6 +31,7 @@ Chihiro est un outil Python de rétro-ingénierie pour binaires ELF (Executable 
 - Linux (supporte ELF & GDB)
 - `gdb` installé
 - `capstone` (pour le désassemblage)
+- format ELF
 
 ### Installer les dépendances :
 
